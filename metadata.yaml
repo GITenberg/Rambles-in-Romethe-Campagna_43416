@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42195'
     url: http://www.gutenberg.org/2009/agents/42195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43416#Rambles-in-Romethe-Campagna
 gutenberg_issued: '2013-08-07'
 gutenberg_type: Text
 identifiers:
