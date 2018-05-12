@@ -1,0 +1,27 @@
+_repo: Rambles-in-Romethe-Campagna_43416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43416-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Forbes, S. Russell
+    gutenberg_agent_id: '42195'
+    url: http://www.gutenberg.org/2009/agents/42195
+description: ''
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome (Italy) -- Guidebooks'
+- !lcc 'DG'
+- !lcsh 'Art -- Rome'
+- !lcsh 'Rome -- Antiquities'
+title: "Rambles in Rome\r\nAn Archæological and Historical Guide to the Museums, Galleries,\
+  \ Villas, Churches, and Antiquities of Rome and the Campagna"
+url: http://www.gutenberg.org/ebooks/43416
